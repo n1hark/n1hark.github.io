@@ -4,12 +4,12 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Nihar
-middle_name: R.
+middle_name: 
 last_name: Kalode
 contact_note: >
   nkalode2(at)illinois(dot)edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My personal website.
+  Undergraduate researcher at UIUC working on generative modeling and representation learning.
 footer_text: >
   
 keywords: nihar, nihar-kalode, kalode, uiuc # add your own keywords or leave empty
