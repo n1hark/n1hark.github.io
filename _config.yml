@@ -7,7 +7,7 @@ first_name: Nihar
 middle_name: 
 last_name: Kalode
 contact_note: >
-  nkalode2(at)illinois(dot)edu
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Undergraduate researcher at UIUC working on generative modeling and representation learning.
 footer_text: >
@@ -95,7 +95,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
