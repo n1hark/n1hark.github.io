@@ -27,7 +27,7 @@ latest_posts:
 I'm an undergraduate at the University of Illinois, majoring in Mathematics & Computer Science and Statistics. 
 My research interests span generative modeling and representation learning, both independently and where they interesect. 
 At present, I'm working under [Prof. Svetlana Lazebnik](https://slazebni.cs.illinois.edu/), studying diffusion models within the broader context of computer vision.
-I recently submitted my first solo-authored paper titled "Sparse Similarity-Aware Label Smoothing via Learned Latent Spaces" to NeurIPS 2026, centered on calibration-focused label smoothing.
+I recently submitted my first solo-authored paper titled "Sparsifying Label Smoothing to Better Calibrate Classifiers" to ICLR 2027, centered on calibration-focused label smoothing.
 
 Outside of research, I course-assist for STAT 207 (Data Science Exploration) and spend my free time helping train service dogs, working out, and going to concerts.
 
